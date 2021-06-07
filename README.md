@@ -4,11 +4,20 @@
 
 ---
 **TEAM MEMBERS**  
-Bustillos Vila, Daniel Arturo  
-Fernandez Testa, Sergio Rodrigo  
-Molina Montes, Mariana  
-Quinteros Terrazas, Osvaldo Cesar  
 ---
+<div style = "fonr-size:15px">
+Bustillos Vila, Daniel Arturo
+</div>
+<div style = "fonr-size:15px">
+Fernandez Testa, Sergio Rodrigo
+</div>
+<div style = "fonr-size:15px">
+Molina Montes, Mariana
+</div>
+<div style = "fonr-size:15px">
+Quinteros Terrazas, Osvaldo Cesar
+</div>
+<br>
 
 > Mechatronics Engineering La Paz, Bolivia
 
