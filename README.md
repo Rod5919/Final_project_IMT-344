@@ -3,7 +3,7 @@
 > Universidad Católica Boliviana "San Pablo" Regional La Paz Av 14 de Septiembre Nº 4807 esquina, La Paz - Bolivia
 
 ---
-**TEAM MEMBERS**  
+**Engineers developer team**  
 ---
 <div style = "fonr-size:15px">
 Bustillos Vila, Daniel Arturo
